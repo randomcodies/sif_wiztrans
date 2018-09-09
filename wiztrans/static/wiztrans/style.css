@@ -1,0 +1,8 @@
+li a {
+    color: red;
+}
+
+body {
+    background: white url("images/diversity.jpg") no-repeat;
+    background-size: cover;
+}
